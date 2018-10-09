@@ -1,4 +1,9 @@
-slack-api
+slack-web-api
 ===
 
-Racket bindings for Slack API
+Racket bindings for the Slack Web API
+
+<https://api.slack.com/web>
+
+TBA
+
